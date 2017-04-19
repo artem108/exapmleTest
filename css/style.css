@@ -1,0 +1,224 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/*HEADER*/
+.header {
+  margin: 0 auto;
+  width: 1170px;
+  padding-top: 15px;
+}
+.siteName {
+  color: #eb3c00;
+  font-size: 52px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
+.firstPage {
+  padding-left: 2px;
+  font-size: 19px;
+  color: #bdbdbd;
+  font-family: 'PT Serif', serif;
+}
+/*FOR LOGIN*/
+.headerBtn {
+  padding-top: 20px;
+  padding-left: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+.loginBtn {
+  padding-left: 15px;
+  height: 45px;
+  text-align: center;
+}
+.fa-key {
+color: #ee4400;
+}
+.login {
+  line-height: 45px;
+  color: #282828;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: 'PT Serif', serif;
+}
+.contactMe {
+  margin: 0 auto;
+  width: 180px;
+  height: 45px;
+  background-color: #ee4400;
+  text-align: center;
+}
+.contactMeLink {
+  text-decoration: none;
+  line-height: 45px;
+  color: #fff;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+/*NAV*/
+nav {
+  margin-top: 20px;
+  width: 100%;
+  height: 72px;
+  background-color: #282828;
+}
+.nav {
+  margin: 0 auto;
+  width: 1150px;
+  height: 72px;
+}
+
+.menu {
+  height: 72px;
+}
+.menu a {
+  text-decoration: none;
+}
+.menu :hover {
+  background-color: #ee4400;
+  color: #fff;
+}
+.menuLink{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 72px;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+.input {
+  padding-top: 13px;
+}
+.inputSearch {
+  float: right;
+  width: 270px;
+  height: 45px;
+  outline:none;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+/*SECTIOM*/
+section {
+  background-color: #f5f5f5;
+  width: 100%;
+}
+.section {
+  margin: 0 auto;
+  width: 1170px;
+}
+.mainText {
+padding-top: 40px;
+padding-left: 13px;
+}
+.headlineH1 {
+  font-size: 55px;
+  text-transform: capitalize;
+  color: #282828;
+  font-family: 'Oswald', sans-serif;
+}
+.secondText {
+  padding-top: 20px;
+}
+.headlineH2 {
+  font-size: 22px;
+  font-family: 'PT Serif', serif;
+  }
+  .sectionList {
+    padding-top: 60px;
+  }
+  .sectionList span {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+  }
+  .sectionList ul {
+    padding-top: 25px;
+  }
+  .sectionList ul li{
+    font-size: 17px;
+    font-family: 'PT Serif', serif;
+  }
+  .recentNews {
+    padding-top: 80px;
+  }
+  .recentNews .col-md-2 {
+    padding-top: 125px;
+    height: 200px;
+    font-size: 15px;
+    font-family: 'PT Serif', serif;
+  }
+.blcock1 {
+  background-image: url(../img/img1.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+.blcock2 {
+  background-image: url(../img/img2.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+.blcock3 {
+  background-image: url(../img/img3.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+.blcock4 {
+  background-image: url(../img/img4.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+.blcock5 {
+  background-image: url(../img/img5.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+.blcock6 {
+  background-image: url(../img/img6.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
